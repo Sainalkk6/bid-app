@@ -1,0 +1,22 @@
+{
+    "bidItems":[
+        {
+            "id":1,
+            "name":"Car",
+            "amount":20000,
+            "image":"/car.jpeg"
+        },
+        {
+            "id":2,
+            "name":"TV",
+            "amount":4000,
+            "image":"/tv.webp"
+        },
+        {
+            "id":3,
+            "name":"Bike",
+            "amount":10000,
+            "image":"/bike.jpeg"
+        }
+    ]
+}
